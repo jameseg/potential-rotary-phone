@@ -12,3 +12,5 @@
 
 1. Start your server (4200 for this example)
 2. `VERSION=<someversion> && ./run-cypress-docker-linux-run`
+
+*these scripts should be run in the project directory
